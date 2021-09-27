@@ -1,5 +1,5 @@
 # Actividad-1-historia-de-la-web
-## Diario abierto :dia
+## Diario abierto 
 
 Claudio Pinhanez comenzó a escribir entradas diarias en el sitio web del MIT Media Lab. Se convirtió en un ejemplo temprano de una revista en línea y una plantilla a seguir: uno de los primeros ejemplos de publicaciones de Pinahenz en orden cronológico inverso, que se convertirá en el formato estándar.
 línea directa
